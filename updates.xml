@@ -11,7 +11,7 @@
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/bsakhanov/mod_wmarka_articles_portfolio/releases/download/v1.1.0/pkg_wmarka_articles_portfolio_v1.1.0.zip</downloadurl>
         </downloads>
-        <sha256>7e3b22e08aca8586352a4d97b8c8b6c769f985a9e05bef8ec4f11321e8662703</sha256>
+        <sha256>ae0cdd42af0419b2ca34d0b45cb86295228cbd847e10e8952abc0e1872ee3776</sha256>
         <changelogurl>https://raw.githubusercontent.com/bsakhanov/mod_wmarka_articles_portfolio/main/changelog.xml</changelogurl>
         <maintainer>Beibit Sakhanov</maintainer>
         <maintainerurl>https://webmarka.kz</maintainerurl>
